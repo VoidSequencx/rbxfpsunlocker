@@ -1,7 +1,7 @@
 #!/bin/sh
 
 targetFps=190
-robloxPath="/Users/a/Applications/Roblox.app"
+robloxPath="/Applications/Roblox.app"
 
 if [ ! -d $robloxPath ]; then
   $robloxPath="~$robloxPath"
